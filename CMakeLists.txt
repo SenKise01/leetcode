@@ -21,6 +21,9 @@ add_executable(
   ./easy/two_sum.cpp
   ./easy/two_sum.h
   ./easy/tests/two_sum_tests.cpp
+  ./easy/is_palindrome.h
+  ./easy/is_palindrome.cpp
+  ./easy/tests/is_palindrome_tests.cpp
 )
 
 
