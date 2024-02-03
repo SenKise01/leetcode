@@ -1,3 +1,5 @@
+#ifndef LONGEST_COMMON_PREFIX_H
+#define LONGEST_COMMON_PREFIX_H
 #include<string>
 
 using namespace std;
@@ -10,3 +12,4 @@ Input: strs = ["flower","flow","flight"]
 Output: "fl"
 */
 string longestCommonPrefix(vector<string>& strs);
+#endif

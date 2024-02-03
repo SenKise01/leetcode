@@ -1,3 +1,5 @@
+#ifndef TWO_SUM_H
+#define TWO_SUM_H
 #include<vector>
 
 using namespace std;
@@ -12,3 +14,4 @@ Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 */
 vector<int> twoSum(vector<int>& nums, int target);
+#endif

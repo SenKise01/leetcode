@@ -27,7 +27,11 @@ add_executable(
   ./easy/longest_common_prefix.h
   ./easy/longest_common_prefix.cpp
   ./easy/tests/longest_common_prefix_tests.cpp
-)
+  ./easy/valid_parentheses.cpp
+  ./easy/valid_parentheses.h
+  ./easy/tests/valid_parentheses_tests.cpp
+  )
+
 
 
 target_link_libraries(
