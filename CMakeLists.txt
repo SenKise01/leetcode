@@ -33,6 +33,9 @@ add_executable(
   ./easy/merge_two_sorted_lists.cpp
   ./easy/merge_two_sorted_lists.h
   ./easy/tests/merge_two_sorted_lists_tests.cpp
+  ./easy/remove_duplicates.cpp
+  ./easy/remove_duplicates.h
+  ./easy/tests/remove_duplicates_tests.cpp
   )
 
 
