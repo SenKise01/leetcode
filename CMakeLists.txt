@@ -24,6 +24,9 @@ add_executable(
   ./easy/is_palindrome.h
   ./easy/is_palindrome.cpp
   ./easy/tests/is_palindrome_tests.cpp
+  ./easy/longest_common_prefix.h
+  ./easy/longest_common_prefix.cpp
+  ./easy/tests/longest_common_prefix_tests.cpp
 )
 
 
