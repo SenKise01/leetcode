@@ -30,6 +30,9 @@ add_executable(
   ./easy/valid_parentheses.cpp
   ./easy/valid_parentheses.h
   ./easy/tests/valid_parentheses_tests.cpp
+  ./easy/merge_two_sorted_lists.cpp
+  ./easy/merge_two_sorted_lists.h
+  ./easy/tests/merge_two_sorted_lists_tests.cpp
   )
 
 
