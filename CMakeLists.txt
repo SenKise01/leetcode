@@ -42,6 +42,9 @@ add_executable(
   ./easy/index_of_first_occurrence.cpp
   ./easy/index_of_first_occurrence.h
   ./easy/tests/index_of_first_occurrence_tests.cpp
+  ./easy/search_insert_position.cpp
+  ./easy/search_insert_position.h
+  ./easy/tests/search_insert_position_tests.cpp
   )
 
 
