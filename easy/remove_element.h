@@ -1,3 +1,6 @@
+#ifndef REMOVE_ELEMENT_H
+#define REMOVE_ELEMENT_H
+
 #include<vector>
 using namespace std;
 
@@ -16,3 +19,5 @@ Explanation: Your function should return k = 2, with the first two elements of n
 It does not matter what you leave beyond the returned k (hence they are underscores).
 */
 int removeElement(vector<int>& nums, int val);
+
+#endif

@@ -39,6 +39,9 @@ add_executable(
   ./easy/remove_element.cpp
   ./easy/remove_element.h
   ./easy/tests/remove_element_tests.cpp
+  ./easy/index_of_first_occurrence.cpp
+  ./easy/index_of_first_occurrence.h
+  ./easy/tests/index_of_first_occurrence_tests.cpp
   )
 
 
