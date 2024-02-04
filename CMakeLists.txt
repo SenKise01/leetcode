@@ -36,6 +36,9 @@ add_executable(
   ./easy/remove_duplicates.cpp
   ./easy/remove_duplicates.h
   ./easy/tests/remove_duplicates_tests.cpp
+  ./easy/remove_element.cpp
+  ./easy/remove_element.h
+  ./easy/tests/remove_element_tests.cpp
   )
 
 
